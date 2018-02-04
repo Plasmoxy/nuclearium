@@ -1,7 +1,7 @@
 {
-  "name"    : "plasmoxy-helloworld",
+  "name"    : "nuclearium-helloworld",
   "author"  : "Plasmoxy",
   "version" : "0.1.0",
   "main"    : "main.js",
-  "repository" : ""
+  "repository" : "https://github.com/Plasmoxy/nuclearium/tree/master/testing/helloworld"
 }
