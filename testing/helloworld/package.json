@@ -1,0 +1,7 @@
+{
+  "name"    : "plasmoxy-helloworld",
+  "author"  : "Plasmoxy",
+  "version" : "0.1.0",
+  "main"    : "main.js",
+  "repository" : ""
+}
